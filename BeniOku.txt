@@ -1,0 +1,2 @@
+Bu projede gorseller adı altındaki klasöre atılan fotoğraflar face_recon.py isimli dosya tarafından tanınmaktadır. Buraya atılan görseller ile
+cihaz kamerasından okunan görseller karşılaştırılmakta ve tanımlama yapılmaktadır. 
